@@ -50,7 +50,8 @@ body:after {
   bottom: 50px;
   background-repeat: no-repeat;
   background-size: 200px;
-  background-image: url("../images/druplicon.green.png"); }
+/*  background-image: url("../images/druplicon.green.png");*/
+}
 
 /*********************************************
  * HEADERS
